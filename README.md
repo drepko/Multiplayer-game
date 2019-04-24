@@ -18,7 +18,7 @@ In week 7 of the Codaisseur Academy we were challenged to build a multiplayer ga
 - As a player you need to fly to the other side of the screen. Whoever reaches the opposite side first, wins the game. 
 - But watch out for the flying monsters!! Once you get hit, you will be set back to your start position. 
 
-## Development and local deployment
+## How to get started. 
 
 To start our app:
 
@@ -41,7 +41,7 @@ TO PLAY ON DIFFERENT COMPUTERS
 3) change 'localhost' in /server/src/db.ts to your local IP address.
 4) on another computer browse to the {IP address}:{port}/games.
 
-## Auhtors
+## Authors
 
 * **Vincent de Graaf** - *Initial work* - [vdegraaf](https://github.com/vdegraaf)
 * **Danielle Repko** - *Initial work* - [drepko](https://github.com/drepko)
