@@ -17,42 +17,42 @@ constructor(props){
   this.state = {
     m3: {
       row: -1,
-      column: 9,
+      column: 10,
       symbol: 'p'
     },
     m4: {
       row: 0,
-      column: 9,
+      column: 10,
       symbol: 'p'
     },
     m5: {
       row: 1,
-      column: 9,
+      column: 10,
       symbol: 'p'
     },
     m6: {
       row: 2,
-      column: 9,
+      column: 10,
       symbol: 'p'
     },
     m7: {
       row: 9,
-      column: 11,
+      column: 12,
       symbol: 'p'
     },
     m8: {
       row: 8,
-      column: 11,
+      column: 12,
       symbol: 'p'
     },
     m9: {
       row: 7,
-      column: 11,
+      column: 12,
       symbol: 'p'
     },
     m10: {
       row: 6,
-      column: 11,
+      column: 12,
       symbol: 'p'
     },
   }
